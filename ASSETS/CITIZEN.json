@@ -1,0 +1,40 @@
+{
+    "name": "CITIZEN_NFT",
+    "symbol": "",
+    "description": "Citizen of COEXIST Guild's",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "web",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mobile",
+        "value": "yes"
+     },
+     {
+        "trait_type": "extension",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "COEXIST MANAGEMENT NFT",
+       "family": "COEXIST"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "2HLPn9AMMepbmZPhoytt4mSuvHRZSFxWn8Xsbe76nKYD",
+          "share": 100
+        }
+      ]
+    }
+  }
